@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Build / deploy artifacts (if added later)
+dist/
+build/
+.cache/
+
+# Environment
+.env
+.env.local
